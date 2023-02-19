@@ -14,7 +14,7 @@
     "ace-builds": "^1.4.13",
     "axios": "^0.23.0",
     "bootstrap": "^4.6.0",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-ace": "^9.4.4",
     "react-dom": "^16.14.0",
