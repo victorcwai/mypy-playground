@@ -53,7 +53,7 @@ toml==0.10.2
     #   pytest
 tomli==1.2.1
     # via coverage
-tornado==6.1
+tornado==6.3.2
     # via
     #   -c requirements.txt
     #   pytest-tornado
