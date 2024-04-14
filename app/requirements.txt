@@ -24,7 +24,7 @@ dataclasses==0.6
     # via -r requirements.in
 google-auth==2.3.0
     # via -r requirements.in
-idna==3.2
+idna==3.7
     # via
     #   requests
     #   yarl
