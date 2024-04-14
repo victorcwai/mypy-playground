@@ -1,4 +1,4 @@
-FROM python:3.9-slim AS dependencies
+FROM python:3.13.0a6-slim AS dependencies
 
 WORKDIR /tmp
 COPY ./requirements.txt /tmp/
@@ -7,7 +7,7 @@ RUN apt-get update \
         && apt-get install -y --no-install-recommends git \
         && pip install -r requirements.txt
 
-FROM python:3.9-slim
+FROM python:3.13.0a6-slim
 
 WORKDIR /tmp
 
