@@ -44,7 +44,7 @@ requests==2.26.0
     # via -r requirements.in
 rsa==4.7.2
     # via google-auth
-tornado==6.1
+tornado==6.4.1
     # via -r requirements.in
 typing-extensions==3.10.0.2
     # via
