@@ -50,7 +50,7 @@ typing-extensions==3.10.0.2
     # via
     #   aiodocker
     #   aiohttp
-urllib3==1.26.7
+urllib3==1.26.19
     # via requests
 yarl==1.7.0
     # via aiohttp
